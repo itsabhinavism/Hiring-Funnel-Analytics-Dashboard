@@ -13,12 +13,8 @@ This project is designed to help recruiters, hiring managers, and candidates ans
 
 ## Dashboard Preview 🖼️
 
-- `filtered.png`  
-
-Example markdown embed:
-```md
-![Hiring Funnel Dashboard Overview](images/dashboard_overview.pdf)
-```
+- [Hiring Funnel Dashboard Overview](images/dashboard_overview.pdf)
+- [Photo](images/filtered.png)
 
 ---
 
